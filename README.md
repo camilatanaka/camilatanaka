@@ -1,4 +1,7 @@
-<img src="https://github.com/camilatanaka/camilatanaka/blob/main/banner-github.png">
+<div align="center">
+  <img src="https://github.com/camilatanaka/camilatanaka/blob/main/banner-github.png" alt="Descrição da imagem" width="100%">
+</div>
+
 
 ## Oi, gente! 👋
 
@@ -10,3 +13,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcamilacrtanaka%2F)](https://www.linkedin.com/in/camilacrtanaka/)
+
+
+## 💻🛠 Tecnologias e Ferramentas
+[![Python Badge](https://img.shields.io/badge/Python-white?logo=python&link=https%3A%2F%2Fwww.python.org)](www.python.org)

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/camilatanaka/camilatanaka/blob/main/banner-pixel.jpg" alt="Descrição da imagem" width="100%">
+  <img src="https://github.com/camilatanaka/camilatanaka/blob/main/readme-banner.png" alt="Descrição da imagem" width="100%">
 </div>
 
 

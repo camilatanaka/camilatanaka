@@ -11,8 +11,9 @@
 
 📫 How to reach me:  
 
-![Linkedin Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%23E8E8E8&color=%23E8E8E8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcamilacrtanaka%2F)
-![Email Badge](https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=%23E8E8E8&color=%23E8E8E8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcamilacrtanaka%2F)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%23FAFAFA&color=%23EAEAEA)](https://www.linkedin.com/in/camilacrtanaka/)
+
+[![Email Badge](https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=%23FAFAFA&color=%23EAEAEA)](mailto:camila.tanaka@hotmail.com)
 
 
 

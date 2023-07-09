@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/camilatanaka/camilatanaka/blob/main/readme-banner.png" alt="Descrição da imagem" width="100%">
+  <img src="https://github.com/camilatanaka/camilatanaka/blob/main/readme-banner.png" alt="Banner com imagem de dois gatos e dois cachorros em pixel art" width="100%">
 </div>
 
 

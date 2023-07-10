@@ -11,15 +11,9 @@
 
 📫 How to reach me:  
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%23FAFAFA&color=%23EAEAEA)](https://www.linkedin.com/in/camilacrtanaka/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%23FAFAFA&color=%23EAEAEA)](https://www.linkedin.com/in/camilacrtanaka/)  
 
-[![Email Badge](https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=%23FAFAFA&color=%23EAEAEA)](mailto:camila.tanaka@hotmail.com)
-
-<a href="https://www.linkedin.com/in/camilacrtanaka/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%23FAFAFA&color=%23EAEAEA" alt="Linkedin Badge">
-</a>
-
-
+[![Email Badge](https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=%23FAFAFA&color=%23EAEAEA)](mailto:camila.tanaka@hotmail.com)  
 
 ## 💻🛠 Technologies & Tools
 [![Python Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](www.python.org)  

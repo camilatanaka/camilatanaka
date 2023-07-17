@@ -6,6 +6,7 @@
 ## 👋🏳‍🌈 Hello World!
 
 👩‍💻 I’m currently working at [B3 - Brazil Stock Exchange](https://www.b3.com.br/pt_br/);  
+
 💬 Pronouns: she/her  
 
 ✉ How to reach me:  

@@ -2,7 +2,6 @@
   <img src="https://github.com/camilatanaka/camilatanaka/blob/main/readme-banner.png" alt="Banner com imagem de dois gatos e dois cachorros em pixel art" width="100%">
 </div>
 
-
 ## 👋🏳‍🌈 Hello World! My name is Camila. 
 
 👩‍💻 I’m currently working at [B3 - Brazil Stock Exchange](https://www.b3.com.br/pt_br/);  

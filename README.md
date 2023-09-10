@@ -8,7 +8,6 @@
 
 💬 Pronouns: she/her  
 
-
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%23FAFAFA&color=%23EAEAEA)](https://www.linkedin.com/in/camilacrtanaka/)
 [![Email Badge](https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=%23FAFAFA&color=%23EAEAEA)](mailto:camila.tanaka@hotmail.com)  
 
